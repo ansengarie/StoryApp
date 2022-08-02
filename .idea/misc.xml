@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BANGKIT Program/App/BPAAI/Sub2/202206281624303e909e5db7891dbbee3ca8d2fc72bdb4/Sub1/app/src/main/res/layout/activity_maps.xml" value="0.22780797101449277" />
+        <entry key="..\:/BANGKIT Program/App/BPAAI/Sub2/202206281624303e909e5db7891dbbee3ca8d2fc72bdb4/Sub1/app/src/main/res/menu/home_menu.xml" value="0.25677083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

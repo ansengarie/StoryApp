@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="app_desc">Tell Your Story</string>
+    <string name="story_app">Story App</string>
+    <string name="register">Register</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="name">Name</string>
+    <string name="description">Masukkan Deskripsi</string>
+    <string name="registrasi_akun">Registrasi Akun</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="fab">fab</string>
+    <string name="login">Login</string>
+    <string name="title_regis">Register</string>
+    <string name="title_login">Login</string>
+    <string name="upload">Upload</string>
+    <string name="masukkan_deskripsi">Masukkan deskripsi</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="logout">Logout</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="title_detail_activity">Detail Story</string>
+    <string name="map">map</string>
+</resources>
